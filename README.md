@@ -39,8 +39,8 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-typescript-weather.git
-   cd react-typescript-weather
+   git clone https://github.com/astabile/react-typescript-weatherAPP.git
+   cd react-typescript-weatherAPP
    ```
 
 2. **Install dependencies**
@@ -167,8 +167,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Alejandro Stabile**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@astabile](https://github.com/astabile)
+- Portfolio: [github.com/astabile/react-typescript-weatherAPP](https://github.com/astabile/react-typescript-weatherAPP)
 
 ## 🙏 Acknowledgments
 
