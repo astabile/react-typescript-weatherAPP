@@ -6,6 +6,12 @@ A modern, responsive weather application built with React, TypeScript, and Vite.
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=flat&logo=vite&logoColor=white)
 
+## 🌐 Live Demo
+
+**[View Live Demo →](https://astabile-react-typescript-weatherapp.netlify.app/)**
+
+Experience the app in action! Search for weather in any city across 195+ countries.
+
 ## ✨ Features
 
 - 🌍 **Global Coverage** - Search weather for 195+ countries worldwide
@@ -168,7 +174,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Alejandro Stabile**
 
 - GitHub: [@astabile](https://github.com/astabile)
-- Portfolio: [github.com/astabile/react-typescript-weatherAPP](https://github.com/astabile/react-typescript-weatherAPP)
 
 ## 🙏 Acknowledgments
 
